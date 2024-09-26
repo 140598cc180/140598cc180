@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 一ji小xi子</h1>
-<h3 align="center">天大在读本科生...</h3>
+<h3 align="left">天大在读本科生...</h3>
 
 - 🔭 I’m currently working on [Paper_Reproduce](https://github.com/140598cc180/Paper_Reproduce)
 
