@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm 一ji小xi子</h1>
-<h3 align="left">天大本博天选选手...</h3>
+<h1 align="center">Hi 👋, I'm Jayce</h1>
+<h3 align="left">TJU本科直博，在读博士生...</h3>
 
 - 🔭 I’m currently working on [Paper_Reproduce](https://github.com/140598cc180/Paper_Reproduce)
 
-- 🌱 I’m currently learning **seaborn**
+- 🌱 I’m currently learning **Acoustic**
 
 - 👯 I’m looking to collaborate on [course_notes](https://github.com/140598cc180/TJU_course_notes)
 
